@@ -351,4 +351,3 @@ while (answer==1):
         print(f'you are wrong; your score is {score}')
     else:
         print("please answer left and right")
-#test
